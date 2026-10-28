@@ -4,7 +4,7 @@ Explore 1,470 employees by state, department, job role, and hire year. Click a s
 
 # Employee Salary & Attrition Dashboard (Tableau)
 
-**Live interactive dashboard:** [add Tableau Public link]
+**Live interactive dashboard:** [https://public.tableau.com/app/profile/tanatswa.chiwara/viz/EmployeeSalaryandAttrition_17926748673220/EmployeeSalaryandAttritionDashboard?publish=yes]
 
 ## Overview
 An interactive Tableau dashboard of 1,470 employees showing headcount and pay by 
@@ -18,7 +18,7 @@ state filters the other charts.
 4. How has hiring changed over time?
 
 ## Dataset
-Employee HR dataset (`Employee.csv`), 1,470 rows and 23 columns covering department, 
+Employee HR dataset , 1,470 rows and 23 columns covering department, 
 job role, state, salary, hire date, and attrition status. The fields used here had no 
 missing values, duplicates, or inconsistent categories.
 Salary currency is not specified in the source.
